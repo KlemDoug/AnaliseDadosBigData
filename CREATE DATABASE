@@ -1,0 +1,13 @@
+CREATE DATABASE investimentos_bacen;
+use investimentos_bacen;
+CREATE TABLE transacoes_correntes (
+	data_referencia DATE PRIMARY KEY,
+    percentual_pib DECIMAL(10, 2) NOT NULL 
+);
+select *from transacoes_correntes;
+
+create table idp_mensal(
+    data_referencia DATE PRIMARY KEY,
+    valor_usd_milhoes DECIMAL(15, 2) NOT NULL 
+    )
+select *from idp_mensal
