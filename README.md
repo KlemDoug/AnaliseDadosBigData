@@ -44,9 +44,6 @@ AnaliseDadosBigDataNI2026/
     ├── Aula14/
     ├── Aula15/
     ├── Aula16/
-    ├── Aula17/
-    ├── Aula18/
-    ├── Aula19/
     ├── Projeto/
 ```
 
