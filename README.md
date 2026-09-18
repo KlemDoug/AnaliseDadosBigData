@@ -94,7 +94,7 @@ Nesta segunda unidade, trabalhamos a estatística descritiva, processamento de d
 
 **Clone o repositório** para a sua máquina local:
    ```bash
-   git clone https://github.com/SeuUsuario/AnaliseDadosBigDataNI2026
+   git clone https://github.com/SeuUsuario/AnaliseDadosBigData
    ```
 
 
