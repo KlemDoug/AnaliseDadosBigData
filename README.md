@@ -1,6 +1,6 @@
-# Hub de Aulas: Analista de Dados - Big Data Science (NI 2026.1)
+# Hub de Aulas: Analista de Dados - Big Data Science
 
-Este é o repositório oficial para registro de materiais e atividades da formação em Análise de Dados - Big Data Science - Senac Nova Iguaçu.
+Este é o repositório oficial para registro de materiais e atividades da formação em Análise de Dados - Big Data Science.
 
 Preparei este espaço com muito carinho para centralizar todos os códigos, materiais, datasets e atividades da nossa trilha de aprendizagem. O objetivo deste curso é desenvolver o pensamento analítico e a capacidade de interpretar grandes volumes de dados, gerando insights valiosos para a tomada de decisão.
 
